@@ -1,0 +1,31 @@
+Model Outputs : 
+
+
+We implemented three machine learning models in our Akhalia Real Estate predictior and these are : 
+
+1. Decision Tree
+2. Linear Regression
+3. Random Forest Regression 
+
+And the outputs and errors are following. 
+
+
+1. Decision Tree :
+
+    Mean :  4.160676325292948
+    Standard Deviation :  0.6806873886189048
+
+
+2. Linear Regression : 
+    
+    Mean :  5.030437102767305
+    Standard Deviation :  1.0607661158294832
+
+
+
+3. Random Forest Regression : 
+    Mean :  3.34648007435925
+    Standard Deviation :  0.6492685319270091
+    
+    
+THESE DATAS SHOW THAT RANDOM FOREST REGRESSION IS WORKING AS THE BEST REGRESSION MODEL IN THIS PARTICULAR CASE
